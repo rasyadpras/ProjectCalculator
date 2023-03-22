@@ -1,13 +1,13 @@
+@font-face {
+    font-family: text;
+    src: url(SFPro.ttf);
+}
+
 .calculator {
     text-align: center;
     margin: 0 auto;
     padding-top: 200px;
     width: 320px;
-}
-
-@font-face {
-    font-family: text;
-    src: url(SFPro.ttf);
 }
 
 .calculator-screen {
