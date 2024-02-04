@@ -7,3 +7,6 @@ Proyek ini merupakan mini-project dari Pelatihan Fresh Graduate Academy 2022 Rea
 - Operasi hitung (tambah, kurang, kali, bagi).
 - Format desimal.
 - Alih angka ke format desimal persen.
+
+
+Link Preview : [Calculator App](https://rasyadpras.github.io/ProjectCalculator/)
